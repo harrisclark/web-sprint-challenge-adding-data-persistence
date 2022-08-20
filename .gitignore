@@ -120,6 +120,7 @@ dist
 
 # VSCode
 .vscode
+.prettierrc.js
 
 # Databases
 *.db3
